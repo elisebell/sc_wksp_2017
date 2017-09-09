@@ -1,0 +1,9 @@
+push to github
+
+1) create repo on github
+2) pull down repo from cloud using git clone https:// etc
+3) science
+4) git add files and folders
+5) git status to check the 'staging area'
+6) git commit -m "enter commit message here"
+7) git push will push it up to the cloud
